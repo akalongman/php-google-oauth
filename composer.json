@@ -1,0 +1,14 @@
+{
+    "name": "longman/google-auth",
+    "type": "project",
+    "require": {
+        "symfony/var-dumper": "^4.2",
+        "google/apiclient": "^2.2"
+    },
+    "authors": [
+        {
+            "name": "Avtandil Kikabidze",
+            "email": "akalongman@gmail.com"
+        }
+    ]
+}
